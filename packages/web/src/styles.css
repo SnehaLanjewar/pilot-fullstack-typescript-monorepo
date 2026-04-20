@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f7f7f8;
+  color: #1f2937;
+}
+
+main {
+  max-width: 800px;
+  margin: 48px auto;
+  padding: 24px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+pre {
+  background: #111827;
+  color: #f9fafb;
+  padding: 12px;
+  border-radius: 6px;
+  overflow-x: auto;
+}
